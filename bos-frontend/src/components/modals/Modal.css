@@ -1,0 +1,19 @@
+div.ant-modal-content {
+    border-radius: 20px;
+}
+
+div.ant-modal-header {
+    border-radius: 20px;
+}
+
+.formScrollbar::-webkit-scrollbar {
+    width:  4px;
+   
+
+}
+.formScrollbar::-webkit-scrollbar-thumb {
+
+        background:  #bdc3c7;
+        border-radius: 12px;
+    
+}
